@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Data_type_project
+Bundle-SymbolicName: data_type_project
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: data_type_project
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
